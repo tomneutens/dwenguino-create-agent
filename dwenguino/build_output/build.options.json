@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "",
+  "customBuildProperties": "",
+  "fqbn": "dwenguino:avr:Dwenguino",
+  "hardwareFolders": "/home/tom/dwenguino/build_input/packages",
+  "otherLibrariesFolders": "/home/tom/dwenguino/build_input/libraries",
+  "runtime.ide.version": "10600",
+  "sketchLocation": "/home/tom/dwenguino/sketch/sketch.ino",
+  "toolsFolders": "/home/tom/dwenguino/build_input/packages"
+}

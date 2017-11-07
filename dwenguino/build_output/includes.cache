@@ -1,0 +1,72 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/cores/dwenguino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/variants/dwenguino"
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_output/sketch/sketch.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Wire"
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_output/sketch/sketch.ino.cpp",
+    "Include": "Dwenguino.h",
+    "Includepath": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src"
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_output/sketch/sketch.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "/home/tom/dwenguino/build_input/libraries/LiquidCrystal/src"
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_output/sketch/sketch.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Wire/Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Wire/utility/twi.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src/Dwenguino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src/DwenguinoIOBoard.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src/DwenguinoLCD.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src/DwenguinoMotor.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/packages/dwenguino/hardware/avr/2.1.0/libraries/Dwenguino/src/DwenguinoSensorPanel.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/tom/dwenguino/build_input/libraries/LiquidCrystal/src/LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
